@@ -1,0 +1,24 @@
+[
+    {
+      "game_id": "game_001",
+      "title": "Space Adventure",
+      "genre": "Action",
+      "release_date": "2023-01-15",
+      "price": 50
+    },
+    {
+      "game_id": "game_002",
+      "title": "Mystery Island",
+      "genre": "Puzzle",
+      "release_date": "2022-11-20",
+      "price": 30
+    },
+    {
+      "game_id": "game_003",
+      "title": "Racing Thunder",
+      "genre": "Racing",
+      "release_date": "2023-05-10",
+      "price": 40
+    }
+  ]
+  

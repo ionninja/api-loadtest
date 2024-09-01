@@ -1,0 +1,17 @@
+[
+    {
+      "user_id": "user_001",
+      "username": "gamer123",
+      "email": "gamer123@example.com",
+      "balance": 1500,
+      "games_played": ["game_001", "game_002"]
+    },
+    {
+      "user_id": "user_002",
+      "username": "proplayer",
+      "email": "proplayer@example.com",
+      "balance": 3000,
+      "games_played": ["game_002", "game_003"]
+    }
+  ]
+  

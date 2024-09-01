@@ -1,0 +1,17 @@
+[
+    {
+      "transaction_id": "txn_001",
+      "user_id": "user_001",
+      "game_id": "game_001",
+      "amount": 50,
+      "date": "2023-08-01"
+    },
+    {
+      "transaction_id": "txn_002",
+      "user_id": "user_002",
+      "game_id": "game_002",
+      "amount": 30,
+      "date": "2023-08-02"
+    }
+  ]
+  
